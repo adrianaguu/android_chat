@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cwpp</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="title_activity_scrolling">Sandra Alvares</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_scrolling1">Luis Navarro</string>
+    <string name="title_activity_scrolling2">Bruno Salomon</string>
+    <string name="title_activity_scrolling3">Manuel Rodriguez</string>
+    <string name="title_activity_scrolling4">Carlos Mamani</string>
+</resources>
